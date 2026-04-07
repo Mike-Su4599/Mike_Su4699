@@ -26,5 +26,5 @@ Projects related to customer behavior, shopping journeys, and market research.
 **Skills:** customer segmentation, behavior analysis, structured research
 
 ## Contact
-- Email: REPLACE_WITH_EMAIL
+- Email: mikesu9014@gmail.com
 - GitHub: [Mike-Su4599](https://github.com/Mike-Su4599)# Mike_Su4699
