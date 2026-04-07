@@ -1,4 +1,4 @@
-# Hi, I'm Hsuan-Yi Su
+# Hi, I'm Hsuan-I Su
 
 I am a research-oriented analyst with a background in **Business Administration** and **History** at **National Taiwan University**.  
 My interests include **industry research**, **market analysis**, **investment research support**, and **data-driven problem solving**.
